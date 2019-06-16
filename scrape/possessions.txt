@@ -1,0 +1,31 @@
+team, poss_per_game
+Atlanta, 108.3
+Okla City, 106.9
+New Orleans, 106.8
+LA Lakers, 106.8
+Sacramento, 106.6
+Milwaukee, 106.4
+Brooklyn, 106.0
+LA Clippers, 105.9
+Washington, 105.8
+Philadelphia, 105.2
+Phoenix, 104.9
+Minnesota, 104.4
+Golden State, 104.2
+Utah, 103.7
+Toronto, 103.3
+New York, 103.3
+Portland, 103.3
+Boston, 103.2
+Chicago, 103.0
+Dallas, 102.7
+Charlotte, 102.6
+Houston, 102.0
+Miami, 101.7
+Detroit, 101.6
+Orlando, 101.3
+San Antonio, 101.2
+Indiana, 101.1
+Denver, 100.8
+Memphis, 100.6
+Cleveland, 100.0
